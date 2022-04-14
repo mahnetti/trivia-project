@@ -1,4 +1,4 @@
-# trivia-project
+# Trivia Project
 
 This project was developed in a group with educational purpose in the Trybe course
 
